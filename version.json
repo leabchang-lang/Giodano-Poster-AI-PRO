@@ -1,0 +1,14 @@
+{
+  "app_name": "Giodano Poster AI PRO",
+  "version": "1.1.3",
+  "release_date": "2026-09-15",
+  "download_url": "https://github.com/leabchang-lang/Giodano-Poster-AI-PRO/releases/latest",
+  "changelog": [
+    "Initial release of Giodano Poster AI PRO v1.1.3",
+    "Support for 3D Khmer Gold & Dragon typography styling",
+    "Smart AI Title Synthesizer and localized adaptations",
+    "ROI Title Zone interactive draggable canvas",
+    "Integrated Gemini API support with Gemini 2.0 / Flash models",
+    "Native Windows desktop app powered by PyQt5 and QWebEngineView"
+  ]
+}
